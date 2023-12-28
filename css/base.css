@@ -193,7 +193,7 @@ body #cdawrap {
 .project {
 	padding: 1rem;
 	max-width: 1000px;
-	margin: 20vh auto;
+	margin: 5vh auto;
 	display: grid;
 	grid-column-gap: 7vw;
 	grid-row-gap: 0.5rem;
@@ -282,9 +282,9 @@ body #cdawrap {
 
 .project__title {
 	grid-area: title;
-	font-size: clamp(2rem, 13vw, 8rem);
+	font-size: clamp(2rem, 10vw, 5rem);
 	font-weight: 400;
-	margin: 10vh 0;
+	margin: 5vh 0;
 	line-height: 1;
 }
 
